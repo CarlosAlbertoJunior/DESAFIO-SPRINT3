@@ -1,9 +1,23 @@
-Sprint Retrospective.
+1. Fonte azul na página index:
 
-1- Implementação concluida sem dificuldade
+Status: Implementado com sucesso.
 
-2-  Não implementado, recomendo criar acessos a uma nova página com os detalhes dos veículos, único acesso é do principal com acesso ao index, mas recomendo a fazer um pull antes do merge.
+Observações: Implementação concluída sem dificuldade.
 
-3- Implementado, alteração realizada para uma melhor navegação, é preciso testar se todas as páginas foram criadas.
+2. Acesso otimizado aos detalhes dos veículos:
 
-4- Não implementado, necessário a criação de uma nova página única com todos os veículos e suas especificações.
+Status: Não implementado.
+
+Observações: Recomenda-se a criação de novos acessos para uma página exclusiva com os detalhes dos veículos.
+
+3. Links detalhados na página de contato:
+
+Status: Implementado.
+
+Observações: Alterações realizadas para facilitar a navegação. Recomenda-se realizar testes para confirmar se todas as páginas estão devidamente acessíveis.
+
+4. Comparação de especificações dos veículos:
+
+Status: Não implementado.
+
+Observações: Necessária a criação de uma página única que apresente todos os veículos e suas especificações lado a lado.
