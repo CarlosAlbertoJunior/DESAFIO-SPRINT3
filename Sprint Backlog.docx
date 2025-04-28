@@ -8,14 +8,3 @@ Sprint Backlog
 
 4 Como cliente da empresa e usuário do portal, eu gostaria de poder comparar as especificid
 
-
-
-Sprint Retrospective.
-
-1- Implementação concluida sem dificuldade
-
-2-  Não implementado, recomendo criar acessos a uma nova página com os detalhes dos veículos, único acesso é do principal com acesso ao index, mas recomendo a fazer um pull antes do merge.
-
-3- Implementado, alteração realizada para uma melhor navegação, é preciso testar se todas as páginas foram criadas.
-
-4- Não implementado, necessário a criação de uma nova página única com todos os veículos e suas especificações.
